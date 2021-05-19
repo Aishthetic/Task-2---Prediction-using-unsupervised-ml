@@ -1,6 +1,8 @@
 # Task-2---Prediction-using-unsupervised-ml
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
-UNSUPERVISED LEARNING
+
+
+Unsupervised Learning~
 Unsupervised learning is a machine learning algorithm that searches for previously unknown patterns within a data set containing no labeled responses and without human interaction. The most prominent methods of unsupervised learning are cluster analysis and principal component analysis.
 
 
